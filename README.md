@@ -1,61 +1,62 @@
-# Weekly Learning Plan: [Insert Topic Here]
-**Week:** [Start Date – End Date]
-**Topic Focus:** [e.g., "IAM in AWS", "Terraform Variables", "Factory Pattern"]
+# 📚 Weekly Coding Concept – [Insert Topic Here]
+
+## 📅 Week: YYYY-MM-DD to YYYY-MM-DD
+## 🧩 Topic: [Short Description of Concept]
 
 ---
 
-## 1. Weekly Goal
-> What specific concept or skill do I want to understand or build this week?
-
-- [ ] Write your goal here:
-- _Example: "Understand and apply IAM roles and policies in AWS"_
+## 🎯 Goal
+> Clearly state what you aim to achieve this week.
 
 ---
 
-## 2. Resources
-> Max 2–3 quality resources (docs, video, tutorial)
-
-- [ ] Official Docs:
-- [ ] Video Tutorial:
-- [ ] Blog or Guide:
+## 📚 Resources Used
+- [ ] [Resource Name](Link)
+- [ ] [Resource Name](Link)
+- [ ] [Resource Name](Link)
 
 ---
 
-## 3. Hands-On Work
-> Practice is key—what will you build or try?
-
-### Hands-On 1 (Midweek)
-- [ ] Basic tutorial or sample walkthrough
-- _Example: Create IAM role, attach policy, assign to EC2_
-
-### Hands-On 2 (Weekend)
-- [ ] Small project or realistic use case
-- _Example: Use Terraform to manage IAM users & policies_
-
----
-
-## 4. Reflection & Notes
-> What did you learn, struggle with, or want to explore more?
-
-- [ ] Key Takeaways:
-- [ ] What was confusing:
-- [ ] What I want to dive deeper into next:
+## 📁 Project Structure
+```bash
+.
+├── .github/
+│   └── workflows/
+│       └── [workflow-name].yml
+├── [your-code-folder]/
+│   ├── ...
+├── README.md
+```
 
 ---
 
-## 5. Share or Save
-> Optional, but great for retention & motivation
+## 🛠️ Hands-on Activity
+> Briefly describe what you built or configured.
 
-- [ ] GitHub commit / repo update
-- [ ] Short blog post or LinkedIn write-up
-- [ ] Personal notes update
+```yaml
+# Optional: Include key code snippets here (e.g., workflow config)
+```
 
 ---
 
-## 6. Time Spent (Optional)
-| Day | Time Spent | Activity |
-|-----------|------------|---------------------------|
-| Monday | | Intro/Reading |
-| Wednesday | | First Hands-On |
-| Saturday | | Build/Project |
-| Sunday | | Reflection & Notes |
+## ✍️ What I Learned
+> Bullet points or short paragraphs summarizing what you learned.
+
+---
+
+## 📦 Output
+- ✅ Describe what works
+- 💡 Optional next improvements
+
+---
+
+## 🔁 Reflection
+- **What went well:**
+- **Challenges faced:**
+- **Confidence level (1–5):** ⭐️⭐️⭐️⭐️⭐️
+
+---
+
+## 🔜 Next Topic
+> [Write the next planned concept]
+
